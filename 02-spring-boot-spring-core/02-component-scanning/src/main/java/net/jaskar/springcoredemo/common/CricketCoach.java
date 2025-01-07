@@ -1,4 +1,4 @@
-package net.jaskar.util;
+package net.jaskar.springcoredemo.common;
 
 import org.springframework.stereotype.Component;
 
